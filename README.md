@@ -1,4 +1,4 @@
-# Huynh Nhat Linh Portfolio
+# NGUYEN DOAN DUY KHANG Portfolio
 
 Static portfolio inspired by the Figma Community template "Portfolio - Tomasz Gajda".
 
