@@ -90,3 +90,4 @@ The site reads from `data/daily-posts.js` when opened directly and `data/daily-p
 - Replace `mailto:your.email@example.com` in `index.html` with your real email.
 - Replace the disabled LinkedIn link with your profile URL.
 - Add screenshots or App Store links when your mobile apps are published.
+"# Nguyen-Doan-Duy-Khang.github.io" 
